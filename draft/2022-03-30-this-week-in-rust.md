@@ -25,7 +25,6 @@ If you find any errors in this week's issue, [please submit a PR](https://github
 ### Rust Walkthroughs
 
 * [Introducing "High Assurance Rust": a FREE systems software security book!](https://highassurance.rs/)
-* [Advanced deserialization with Serde: Parsing Cloudformation templates](https://rtoch.com/posts/advanced-serde/)
 
 ### Miscellaneous
 
@@ -223,6 +222,12 @@ Email the [Rust Community Team][community] for access.
 # Rust Jobs
 
 *Tweet us at [@ThisWeekInRust](https://twitter.com/ThisWeekInRust) to get your job offers listed here!*
+
+**Parity Technologies**
+
+* [Parachains Engineer - Common Good](https://boards.greenhouse.io/parity/jobs/4794657003)
+* [Core Runtime Engineer - Substrate](https://grnh.se/dddd76283us)
+* [Rust / Core Engineer - General Posting](https://grnh.se/1cf2de503us) - engineers new to/learning Rust are very welcomed!
 
 # Quote of the Week
 
